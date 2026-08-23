@@ -2,7 +2,7 @@
 // CONFIGURACIÓN
 // ==========================================
 
-const API_URL = "http://localhost:3000";
+const API_URL = "https://renta-de-departamentos-dimantes-de-kino.onrender.com";
 
 
 // ==========================================
