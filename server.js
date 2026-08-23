@@ -8,7 +8,7 @@ const express = require("express");
 const cors = require("cors");
 const mongoose = require("mongoose");
 
-const Departamento = require("./models/Departamento");
+const departamento = require("./models/departamento");
 const Reserva = require("./models/Reserva");
 const Cliente = require("./models/Cliente");
 const Pago = require("./models/Pago");
